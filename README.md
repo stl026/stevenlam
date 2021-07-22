@@ -17,7 +17,7 @@ Previously, I was a Human Biology major teaching students at a high school camp 
 - An eCommerce product discovery retail web application for online shoppers.
 
 [TapThat](https://github.com/stl026/tapthat)
-- React-native application using Expo logging and presenting the user with data about their ability ot maintain a consistent tempo.
+- React-native application using Expo logging and presenting the user with data about their ability to maintain a consistent tempo.
 
 ---
 
